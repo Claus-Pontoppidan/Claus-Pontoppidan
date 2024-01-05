@@ -3,7 +3,7 @@
 
 📫 How to reach me: https://www.smartconnect.dk
 
-https://vistr.dev/badge?repo=Claus-Pontoppidan.Claus-Pontoppidan
+![](https://vistr.dev/badge?repo=Claus-Pontoppidan.Claus-Pontoppidan)
 <!--
 **Claus-Pontoppidan/Claus-Pontoppidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
